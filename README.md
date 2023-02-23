@@ -47,4 +47,4 @@ The images, external resources, and cheatsheets linked in this repository may ha
 
 ## Citation
 Please cite this material as:    
-Johns Hopkins University Data Services. [Date of workshop]. [Workshop title]. [GitHub URL]
+Johns Hopkins University Data Services. [Date of workshop]. Data Wrangling in Python: Introduction to the pandas library. https://github.com/jhu-data-services/data-wrangling-pandas.
