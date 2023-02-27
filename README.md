@@ -26,11 +26,10 @@ Before the class, follow the [Python Installation Instructions](https://github.c
 
 ## Description of Files
 - Data: This folder contains raw data files to be used during hands-on activities in the workshop
-- In-ClassScripts: This folder contains Jupyter Notebook file you will need for the workshop:
-    - DataWranglingPandas_InClass.ipynb
-    - Images folder - contains images that are used in the Jupyter Notebook  
-- PresentationMaterials: This folder contains PowerPoint slides and other presentation materials used in the workshop (there are none for this workshop)
-- Resources: This folder contains cheatsheets to assist you during the workshop and links to external sources for you to continue your learning
+- In-ClassScripts: This folder contains Jupyter Notebook files you will need for the workshop:
+    - DataWranglingPandas_InClass_Part1.ipynb
+	- DataWranglingPandas_InClass_Part2.ipynb
+    - Images folder - contains images that are used in the Jupyter Notebook
 
 
 ## Post-Class Survey
