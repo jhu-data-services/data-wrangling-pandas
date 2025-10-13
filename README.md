@@ -1,4 +1,4 @@
-# Data Wrangling in Python: Introduction to the pandas library
+# Transforming Data in Python with pandas
 This beginner-to-intermediate level workshop will introduce you to the pandas library, a popular Python library for data cleaning, data wrangling, and data analysis. Participants in this interactive class will use Jupyter Notebooks software and Python code to import, understand, and prepare a dataset for further analysis or visualization. By the end of this workshop, participants will be able to:  
 - Identify and use the two primary data structures of the pandas library: Series and DataFrame  
 - Implement functions from the pandas library to explore and analyze a dataset, including:  
@@ -17,7 +17,7 @@ JHU Data Services, part of the Johns Hopkins University Sheridan Libraries, help
 
 This repository contains materials for one of our live webinars open to JHU students, faculty, and staff. Please [contact us](mailto:dataservices@jhu.edu) with any questions.
 
-As of March 2020, Data Services workshops are being held virtually on Zoom. [See our calendar to register for upcoming workshops.](https://dataservices.library.jhu.edu/training-workshops/calendar/)
+All Data Services workshops are held virtually on Zoom. [See our calendar to register for upcoming workshops.](https://dataservices.library.jhu.edu/training-workshops/calendar/)
 
 
 ## Pre-Class Instructions
@@ -33,7 +33,7 @@ Before the class, follow the [Python Installation Instructions](https://github.c
 
 
 ## Post-Class Survey
-If you have taken the live webinar for this class, please take this survey: [https://www.surveymonkey.com/r/IntroPandas](https://www.surveymonkey.com/r/IntroPandas)
+If you have taken the live webinar for this class, please take this survey: [https://bit.ly/jhu-pandas-survey](https://bit.ly/jhu-pandas-survey)
 
 
 ## License and Terms of Use
@@ -46,4 +46,4 @@ The images, external resources, and cheatsheets linked in this repository may ha
 
 ## Citation
 Please cite this material as:    
-Johns Hopkins University Data Services. [Date of workshop]. Data Wrangling in Python: Introduction to the pandas library. https://github.com/jhu-data-services/data-wrangling-pandas.
+Johns Hopkins University Data Services. [Date of workshop]. Transforming Data in Python with pandas. https://github.com/jhu-data-services/data-wrangling-pandas.
